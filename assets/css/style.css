@@ -1,23 +1,17 @@
-/*
-Universal font for webpages
-*/
+/* Universal font for webpages */
 
 * {
     font-family: Georgia, 'Times New Roman', Times, serif
 }
 
-/*
-Centering content on webpages
-*/
+/* Centering content on webpages */
 
 body {
     margin-left: 30px;
     margin-right: 30px;
 }
 
-/*
-Footer styling
-*/
+/* Footer styling */
 
 footer {
     background-color:lightblue;
