@@ -28,6 +28,15 @@ https://edonohue8.github.io/responsive-portfolio/
 
 ## Screenshots of Website Pages
 
-##Author
+* **index**
+![](readme-images/index.jpg)
+
+* **Portfolio**
+![](readme-images/portfolio.jpg)
+
+* **Contact Form**
+![](readme-images/contactform.jpg)
+
+## Author
 
 * **Eric Donohue**
